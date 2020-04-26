@@ -21,7 +21,7 @@
                 <label>Last Name</label>
                 <input type="text" name="lname" placeholder="Last Name">
             </div><br>
-            <div>
+            <div>4
                 <label>password</label>
                 <input type="password" name="pass" placeholder="password">
             </div><br>
